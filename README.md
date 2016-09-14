@@ -1,2 +1,2 @@
 # choDerivatives
-Repo is for writing, test sCAAS using upgradable contracts and contract factories
+Repo is for writing, testing sCAAS using upgradable contracts and contract factories
