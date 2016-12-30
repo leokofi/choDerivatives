@@ -1,6 +1,7 @@
+pragma solidity ^0.4.0;
 // using the SafeMath contract as a lib
 //contract SafeMath {
-lib SafeMath {
+library SafeMath {
   //internals
   function safeMul(uint a, uint b) internal returns (uint) {
     uint c = a * b;
